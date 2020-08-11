@@ -1,0 +1,24 @@
+{
+  "name": "lottie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aivarsyo/lottie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aivarsyo/lottie/issues"
+  },
+  "homepage": "https://github.com/aivarsyo/lottie#readme",
+  "dependencies": {
+    "@lottiefiles/lottie-player": "^0.5.1",
+    "autoprefixer": "^9.8.6"
+  }
+}
